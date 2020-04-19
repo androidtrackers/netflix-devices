@@ -1,5 +1,6 @@
 # Netflix supported devices
 
+[![Build Status](https://travis-ci.org/androidtrackers/netflix-devices.svg?branch=master)](https://travis-ci.org/androidtrackers/netflix-devices)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
