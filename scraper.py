@@ -42,8 +42,8 @@ def git_commit_push():
     """
     git add - git commit - git push
     """
-    system(f'git add *.json && git -c user.name='
-           f'user.name=CI -c "user.email='
+    system(f'git add *.json && git -c "user.name='
+           f'user.name=CI" -c "user.email='
            f'example@example.com" commit -m "[skip ci] sync: {str(date.today())}"'
            f' && git push -q https://{GIT_OAUTH_TOKEN}@github.com/'
            f'androidtrackers/netflix-devices.git HEAD:master')
