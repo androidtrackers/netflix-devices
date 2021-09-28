@@ -7,7 +7,7 @@ from os import environ, system
 from bs4 import BeautifulSoup
 from requests import get
 
-GIT_OAUTH_TOKEN = environ['XFU']
+GIT_OAUTH_TOKEN = environ['GIT_OAUTH_TOKEN_XFU']
 
 # Netflix page variable
 URL = "https://help.netflix.com/en/node/23939"
