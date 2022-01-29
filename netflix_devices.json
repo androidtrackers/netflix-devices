@@ -103,8 +103,12 @@
   "Motorola DROID Turbo 2*",
   "Motorola Moto X 2014",
   "Nokia 8.3 5G",
+  "Nokia G11",
+  "Nokia G21",
   "Nokia G50",
+  "Nokia G300",
   "Nokia X10",
+  "Nokia X100",
   "Nokia X20",
   "Nokia XR20",
   "OnePlus 7",
@@ -314,7 +318,14 @@
   "Qualcomm® Snapdragon™ 865",
   "Qualcomm® Snapdragon™ 870",
   "Qualcomm® Snapdragon™ 875",
-  "Samsung Exynos 980"
+  "Samsung Exynos 980",
+  "Samsung Exynos 2100",
+  "Samsung Exynos 2200",
+  "Unisoc T606",
+  "Unisoc T610",
+  "Unisoc T612",
+  "Unisoc T616",
+  "Unisoc T618"
  ],
  "hdr_devices": [
   "Acer Predator 8",
@@ -420,8 +431,12 @@
   "Motorola DROID Turbo 2*",
   "Motorola Moto X 2014",
   "Nokia 8.3 5G",
+  "Nokia G11",
+  "Nokia G21",
   "Nokia G50",
+  "Nokia G300",
   "Nokia X10",
+  "Nokia X100",
   "Nokia X20",
   "Nokia XR20",
   "OnePlus 7",
@@ -631,6 +646,13 @@
   "Qualcomm® Snapdragon™ 865",
   "Qualcomm® Snapdragon™ 870",
   "Qualcomm® Snapdragon™ 875",
-  "Samsung Exynos 980"
+  "Samsung Exynos 980",
+  "Samsung Exynos 2100",
+  "Samsung Exynos 2200",
+  "Unisoc T606",
+  "Unisoc T610",
+  "Unisoc T612",
+  "Unisoc T616",
+  "Unisoc T618"
  ]
 }
